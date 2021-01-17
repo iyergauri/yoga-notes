@@ -1,4 +1,4 @@
-# Cues for Neutral Rotation
+# cues for neutral rotation
 
 * pick up toes to evenly distribute through 4 corners
 * align knees with second toes 

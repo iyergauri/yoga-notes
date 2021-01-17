@@ -1,4 +1,4 @@
-# Tadasana
+# tadasana
 
 ## meaning
 mountain pose

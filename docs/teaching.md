@@ -1,4 +1,4 @@
-# General Teaching Tips
+# general teaching tips
 
 * build from the ground up (foundation = what touches the ground)
 * the attention in the body goes to where we speak

@@ -1,8 +1,8 @@
-# Hips
-* these guys are bendy in all the directions, which is why
+# hips
+* these guys are bendy in all the directions, which is why everyone always complains
 
 ## neutral rotation 
-* cues should uh, be easier here
+* cues should be easier here (than external)
 * hip points should all be sagittally, coronally, and transversially (?) neutral
 * hinging front = anterior pelvic tilt = hip bowl of water spilling forwards
 * hinging back = posterior pelvic tilt = hip bowl of water spilling backwards 

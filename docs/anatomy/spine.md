@@ -1,4 +1,4 @@
-# The Spine
+# the spine
 * from top to bottom: cervical (neck), thoracic (upper back), lumbar (lower back), and sacrococcygeal regions
 * have 7, 12, 5 vertebrae, and tailbone (1) respectively
 

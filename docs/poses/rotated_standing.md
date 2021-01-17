@@ -1,4 +1,4 @@
-# Cues for Rotated Standing Poses
+# cues for rotated standing poses
 
 * straight leg:
   * knee should face same direction as foot (slightly turned in from what might be a default)

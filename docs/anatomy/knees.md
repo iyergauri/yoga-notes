@@ -1,4 +1,4 @@
-# The Knee
+# the knee
 
 ## muscles
 * muscles heal much faster than ligaments
