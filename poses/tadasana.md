@@ -1,9 +1,11 @@
-# Meaning
+# Tadasana
+
+## meaning
 mountain pose
 
-# Asana points
+## asana points
 
-## feet
+### feet
 * face forward
 * rock back and forth until you find a supportive middle
 * push down with all four corners equally
@@ -12,13 +14,13 @@ mountain pose
   1. inner heel
   1. outer heel
 
-## hips
+### hips
 * lift front of thighs
 * inner thighs rotate inwards and back
   * trying to parallel your feet on the ground
 * pull butt down
 
-## shoulders
+### shoulders
 * place hand on sternum (breastplate) to feel yourself lift the chest 
 * look straight ahead
 
